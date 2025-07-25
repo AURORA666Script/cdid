@@ -7,6 +7,9 @@ local whitelist = {
     [4241141996] = _G.Key .. "CdidByNEHubUserSixth",
     [8634850315] = _G.Key .. "CdidByNEHubUserSeventh",
     [3188244200] = _G.Key .. "CdidByNEHubUserEighth",
-    [7059832292] = _G.Key .. "CdidByNEHubUserEighth"
+    [7059832292] = _G.Key .. "CdidByNEHubUserninth",
+    [8890545318] = _G.Key .. "CdidByNEHubUsertentheleventh",
+    [7105545314] = _G.Key .. "CdidByNEHubUsertwelfth",
+    [7882907438] = _G.Key .. "CdidByNEHubUserthirteenth"
 }
 return

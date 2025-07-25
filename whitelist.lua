@@ -12,4 +12,4 @@ local whitelist = {
     [7105545314] = _G.Key .. "CdidByNEHubUsertwelfth",
     [7882907438] = _G.Key .. "CdidByNEHubUserthirteenth"
 }
-return
+return whitelist
